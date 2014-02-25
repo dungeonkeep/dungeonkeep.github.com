@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dungeonkeep.github.io/sitemap.xml 
+Sitemap: http://dungeon.keep.se/sitemap.xml 

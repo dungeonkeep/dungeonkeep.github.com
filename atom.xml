@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dungeonkeep.github.io/atom.xml" rel="self"/>
-  <link href="http://dungeonkeep.github.io/"/>
-  <updated>2014-02-25T23:49:18+02:00</updated>
-  <id>http://dungeonkeep.github.io/</id>
+  <title><![CDATA[The Infosec Semidoct Demiurge]]></title>
+  <link href="http://dungeon.keep.se/atom.xml" rel="self"/>
+  <link href="http://dungeon.keep.se/"/>
+  <updated>2014-02-26T00:14:56+02:00</updated>
+  <id>http://dungeon.keep.se/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[dkeeper]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World: The First of Many New Blog Posts]]></title>
-    <link href="http://dungeonkeep.github.io/blog/2014/02/25/hello-world-the-first-of-many-new-blog-posts/"/>
+    <link href="http://dungeon.keep.se/hello-world-the-first-of-many-new-blog-posts/"/>
     <updated>2014-02-25T23:14:43+02:00</updated>
-    <id>http://dungeonkeep.github.io/blog/2014/02/25/hello-world-the-first-of-many-new-blog-posts</id>
+    <id>http://dungeon.keep.se/hello-world-the-first-of-many-new-blog-posts</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
