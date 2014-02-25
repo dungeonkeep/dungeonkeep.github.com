@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dungeonkeep.github.io/atom.xml" rel="self"/>
   <link href="http://dungeonkeep.github.io/"/>
-  <updated>2014-02-25T23:12:37+02:00</updated>
+  <updated>2014-02-25T23:15:38+02:00</updated>
   <id>http://dungeonkeep.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World: The First of Many New Blog Posts]]></title>
+    <link href="http://dungeonkeep.github.io/blog/2014/02/25/hello-world-the-first-of-many-new-blog-posts/"/>
+    <updated>2014-02-25T23:14:43+02:00</updated>
+    <id>http://dungeonkeep.github.io/blog/2014/02/25/hello-world-the-first-of-many-new-blog-posts</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
