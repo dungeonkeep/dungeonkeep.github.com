@@ -35,7 +35,9 @@ code_dir: downloads/code
 category_dir: categories
 navigation:
 - text: Home
-  url: /index.html
+  url: /index
+- text: Test
+  url: /new_page_name
 markdown: rdiscount
 rdiscount:
   extensions:
