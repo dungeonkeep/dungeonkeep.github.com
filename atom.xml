@@ -4,7 +4,7 @@
   <title><![CDATA[The Infosec Semidoct Demiurge]]></title>
   <link href="http://dungeon.keep.se/atom.xml" rel="self"/>
   <link href="http://dungeon.keep.se/"/>
-  <updated>2014-02-26T01:49:50+02:00</updated>
+  <updated>2014-02-26T02:09:56+02:00</updated>
   <id>http://dungeon.keep.se/</id>
   <author>
     <name><![CDATA[dkeeper]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test222]]></title>
+    <link href="http://dungeon.keep.se/test222/"/>
+    <updated>2014-02-26T02:09:30+02:00</updated>
+    <id>http://dungeon.keep.se/test222</id>
+    <content type="html"><![CDATA[<p>forta</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World: The First of Many New Blog Posts6]]></title>
